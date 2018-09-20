@@ -228,15 +228,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 {% endcomment %}
-{% if page.collaborative_notes %}
+
+
+<hr/>
+
+<h2 id="setup">Class online documents</h2>
 <p id="collaborative_notes">
   <b>We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.</b>
-	<a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-bash">collaborative document for bash and git</a>
-	<a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-python">collaborative document for Python</a> 
-	<a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-R">collaborative document for R</a> 
-	
+	<ul>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-bash">Bash and Git</a> </li>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-python">Python</a> </li>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-R">R</a> </li>
+	</ul>
 </p>
-{% endif %}
+
 
 <hr/>
 
