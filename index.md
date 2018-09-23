@@ -237,6 +237,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <b>We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.</b>
 	<ul>
 	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-bash">Bash and Git</a> </li>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-sql">SQL and db design</a> </li>	
 	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-python">Python</a> </li>
 	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-R">R</a> </li>
 	</ul>
