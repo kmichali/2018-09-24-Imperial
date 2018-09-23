@@ -179,6 +179,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+<h2 id="setup">CLASS ONLINE DOCUMENTS</h2>
+<p id="collaborative_notes">
+  <b>We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.</b>
+	<ul>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-bash">Bash and Git</a> </li>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-sql">SQL and db design</a> </li>	
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-python">Python</a> </li>
+	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-R">R</a> </li>
+	</ul>
+</p>
+
+<hr/>
+
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
@@ -228,20 +241,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 {% endcomment %}
-
-
-<hr/>
-
-<h2 id="setup">Class online documents</h2>
-<p id="collaborative_notes">
-  <b>We will use collaborative documents for chatting, taking notes, and sharing URLs and bits of code.</b>
-	<ul>
-	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-bash">Bash and Git</a> </li>
-	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-sql">SQL and db design</a> </li>	
-	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-python">Python</a> </li>
-	<li> <a href=" http://pad.software-carpentry.org/2018-09-24-Imperial-R">R</a> </li>
-	</ul>
-</p>
 
 
 <hr/>
